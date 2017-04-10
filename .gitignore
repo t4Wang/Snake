@@ -1,0 +1,5 @@
+﻿*.vcxproj
+*.vcxproj.filters
+Test1.cpp
+/Debug
+/others
