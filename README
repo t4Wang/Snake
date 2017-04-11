@@ -1,5 +1,10 @@
 ﻿# SnakeMain.cpp README
-
-# use console
-
+# it is a game use c++;
+# use console interface
+# 
+# How to play:
+# 	use w, s, a, d to control the snake to eat the heart to get point.
+# 	every time you eat a heart, the snake will grow up.
+# 
+# 
 # use vector
